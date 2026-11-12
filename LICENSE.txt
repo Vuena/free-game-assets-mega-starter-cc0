@@ -1,0 +1,12 @@
+CC0 1.0 Universal - public domain dedication
+
+The 68 models and their textures and animations in this download (the free samples of the Store, Gas Station, Modular Apartment Interior and Factory Simulator Kits, 48 Rigged Characters, 50 Low-Poly Toy Cars, Cute Pets & Wildlife, Blocky Monsters, Blocky Winter & Christmas, the PSX Retro Horror Props Kit and the PSX First-Person Arms & Items Kit) are my own work and are dedicated to the public domain under CC0 1.0 Universal.
+The only third-party files are the oak and walnut wood textures used in the Simulator/Modular-Apartment-Interior-Kit folder (Poly Haven oak_veneer_01 by Jenelle van Heerden, https://polyhaven.com/a/oak_veneer_01), which are CC0 as well.
+
+You can copy, modify, distribute and use all of it for anything, including commercial use, without asking permission and without attribution.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Summary: https://creativecommons.org/publicdomain/zero/1.0/
+
+The full packs this download is sampled from are separate products with their own licence. This CC0 dedication covers only the files in this download.
+The files are provided "as is", without warranty of any kind.

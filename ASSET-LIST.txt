@@ -1,0 +1,161 @@
+VUENA FREE MEGA STARTER - 68 CC0 GAME ASSETS (GLB, FBX)
+=======================================================
+
+(This is the GLB-only edition: the same 68 assets, GLB files only. The full download also has the FBX files and their texture folders.)
+
+Hi, I am the person behind Vuena. I made this starter pack so you can try my work properly before spending a cent.
+It collects the free samples of eleven of my packs into one download: 68 assets, ready to drop into Godot, Unity, Unreal, Blender or three.js.
+Everything here is CC0 (public domain). Use it in any project, commercial or not, and you never need to give credit
+(a mention is always nice, but it is your choice). See LICENSE.txt.
+
+WHAT IS INSIDE
+--------------
+  Vuena-Free-Mega-Starter/
+    README.txt, LICENSE.txt
+    Simulator/   24 assets
+    Characters/   8 assets
+    Vehicles/   5 assets
+    Animals/   3 assets
+    Monsters/   8 assets
+    Winter/   10 assets
+    PSX-Horror/   10 assets
+
+  68 assets = 68 GLB files. All GLB files are self-contained: textures and animations are embedded, so they work on their own.
+  14 of the 68 assets are rigged and animated: Characters 8, Animals 3, Monsters 3.
+
+ALL 68 ASSETS, WITH THE PACK EACH ONE COMES FROM
+------------------------------------------------------------
+(triangles and size W x H x D in metres are read from the GLB files; animals are counted without their extra mobile LOD)
+
+SIMULATOR  (24 assets)
+  From "Store Simulator Kit":  https://vuena.itch.io/store-simulator-kit
+    sk_pos_till                POS till with sliding drawer      996 tris   0.46 x 0.55 x 0.40
+    sk_prod_can_soda_a         Soda can                          396 tris   0.07 x 0.12 x 0.07
+    sk_prod_cereal_l_a         Cereal box                         44 tris   0.19 x 0.29 x 0.07
+    sk_shelf_wall_120          Wall shelf unit                  1284 tris   1.20 x 1.96 x 0.43
+    sk_price_tag_shelf         Shelf price tag                    44 tris   0.09 x 0.04 x 0.00
+    sk_carton_s                Cardboard carton                  150 tris   0.30 x 0.17 x 0.20
+  From "Gas Station Simulator Kit":  https://vuena.itch.io/gas-station-simulator-kit
+    gs_bollard_steel           Steel bollard                     508 tris   0.18 x 1.00 x 0.18
+    gs_pump_modern             Modern fuel pump                 3628 tris   1.00 x 2.30 x 0.68
+    gs_prod_oil_5l_a           5 l motor-oil jug                 500 tris   0.20 x 0.33 x 0.12
+    gs_cone_traffic            Traffic cone                      500 tris   0.36 x 0.70 x 0.36
+    gs_jerry_can               Jerry can                         708 tris   0.34 x 0.47 x 0.16
+    gs_tire                    Tyre                             1080 tris   0.21 x 0.65 x 0.65
+  From "Modular Apartment Interior Kit":  https://vuena.itch.io/modular-apartment-interior-kit
+    ap_mug                     Mug                               880 tris   0.13 x 0.09 x 0.09
+    ap_pillow_square           Square cushion                   1152 tris   0.46 x 0.46 x 0.12
+    ap_armchair                Armchair                         6340 tris   0.84 x 0.86 x 0.89
+    ap_coffee_table            Coffee table                      728 tris   1.10 x 0.42 x 0.60
+    ap_plant_small             Small potted plant               2948 tris   0.30 x 0.22 x 0.32
+    ap_table_lamp              Table lamp                        972 tris   0.30 x 0.50 x 0.30
+  From "Factory Simulator Kit":  https://vuena.itch.io/factory-simulator-kit
+    fk_item_box                Small product box                  68 tris   0.30 x 0.20 x 0.20
+    fk_sign_forklift           Forklift warning sign              44 tris   0.30 x 0.40 x 0.00
+    fk_traffic_barrier_2m      Traffic barrier (2 m)             520 tris   2.00 x 0.45 x 0.30
+    fk_barrel_steel            Steel drum                       1240 tris   0.60 x 0.88 x 0.60
+    fk_box_closed              Taped carton                      156 tris   0.60 x 0.40 x 0.40
+    fk_pallet_wood             Wooden pallet                     880 tris   1.20 x 0.14 x 0.80
+
+CHARACTERS  (8 assets)
+  From "48 Rigged Characters + 30 Animations":  https://vuena.itch.io/blocky-characters-48
+    blocky_01_hero             Hero                           rigged, 10 animations,   2976 tris   1.05 x 1.80 x 0.85
+    blocky_03_knight           Knight                         rigged, 10 animations,   3792 tris   1.10 x 2.13 x 1.39
+    blocky_05_wizard           Wizard                         rigged, 10 animations,   3936 tris   1.19 x 2.79 x 1.31
+    blocky_06_pirate           Pirate                         rigged, 10 animations,   4464 tris   1.23 x 2.10 x 1.33
+    blocky_07_astronaut        Astronaut                      rigged, 10 animations,   4628 tris   1.18 x 2.38 x 1.15
+    blocky_08_robot            Robot                          rigged, 10 animations,   2504 tris   1.05 x 2.12 x 0.80
+    blocky_09_zombie           Zombie                         rigged, 10 animations,   2466 tris   1.05 x 2.07 x 0.83
+    blocky_19_princess         Princess                       rigged, 10 animations,   3300 tris   1.05 x 2.16 x 0.98
+
+VEHICLES  (5 assets)
+  From "50 Low-Poly Toy Cars":  https://vuena.itch.io/toy-cars-20
+    muscle_blue                Muscle car (blue)                6664 tris   1.91 x 1.35 x 3.64
+    monster_orange             Monster truck (orange)           7804 tris   2.74 x 2.71 x 4.23
+    police_classic             Police car                       5783 tris   1.95 x 1.57 x 3.88
+    icecream_pink              Ice cream van (pink)             6300 tris   2.44 x 2.88 x 3.72
+    fire_red                   Fire truck (red)                 6388 tris   2.27 x 2.01 x 4.35
+
+ANIMALS  (3 assets)
+  From "Cute Pets & Wildlife":  https://vuena.itch.io/blocky-pets-wildlife
+    animal_cat                 Cat                            rigged, 12 animations,   7188 tris   0.40 x 0.56 x 0.56
+    animal_fox                 Fox                            rigged, 12 animations,   7300 tris   0.43 x 0.64 x 0.93
+    animal_owl                 Owl                            rigged, 12 animations,   7884 tris   0.47 x 0.64 x 0.36
+
+MONSTERS  (8 assets)
+  From "Blocky Monsters":  https://vuena.itch.io/blocky-halloween
+    monster_01_pumpkinhead     Pumpkinhead                    rigged, 12 animations,   3536 tris   1.05 x 2.08 x 0.95
+    monster_03_ghost           Ghost                          rigged, 12 animations,   2592 tris   1.20 x 1.59 x 1.38
+    monster_10_skeleton        Skeleton                       rigged, 12 animations,   7056 tris   1.07 x 1.74 x 0.81
+    prop_02_pumpkin_medium     Pumpkin (medium)                 1412 tris   0.46 x 0.49 x 0.48
+    prop_04_jackolantern       Jack-o-lantern                   2168 tris   0.55 x 0.59 x 0.60
+    prop_05_gravestone_round   Round gravestone                 1240 tris   1.00 x 1.38 x 0.70
+    prop_08_candle             Candle                            700 tris   0.31 x 0.48 x 0.24
+    prop_20_skull              Skull                            1080 tris   0.28 x 0.31 x 0.29
+
+WINTER  (10 assets)
+  From "Blocky Winter & Christmas":  https://vuena.itch.io/blocky-winter-christmas
+    prop_candy_cane            Candy cane                        596 tris   0.74 x 1.74 x 0.28
+    prop_igloo                 Igloo                            4412 tris   3.88 x 2.12 x 4.66
+    prop_lantern_post          Lantern post                     1892 tris   0.84 x 2.89 x 0.80
+    prop_pine_snow_small       Small snowy pine                 1684 tris   1.33 x 2.01 x 1.40
+    prop_present_blue          Present (blue)                    344 tris   0.44 x 0.40 x 0.61
+    prop_present_red           Present (red)                     344 tris   0.55 x 0.55 x 0.55
+    prop_sled                  Sled                              924 tris   0.71 x 0.28 x 1.67
+    prop_snowman_classic       Classic snowman                  2452 tris   1.80 x 2.25 x 1.00
+    prop_tree_small            Small decorated tree             5044 tris   0.93 x 1.56 x 0.93
+    prop_wreath                Wreath                           1628 tris   1.06 x 1.13 x 0.36
+
+PSX HORROR  (10 assets)
+  From "PSX Retro Horror Props Kit":  https://vuena.itch.io/psx-retro-horror-props-kit
+    px_vhs_tape                VHS tape                           66 tris   0.19 x 0.02 x 0.11
+    px_chair_wood              Wooden chair                      108 tris   0.42 x 0.95 x 0.42
+    px_barrel                  Barrel                            246 tris   0.60 x 0.89 x 0.58
+    px_crate_wood              Wooden crate                      322 tris   0.75 x 0.72 x 0.75
+    px_note_paper              Paper note                         76 tris   0.15 x 0.00 x 0.20
+    px_candle                  Candle                            188 tris   0.13 x 0.17 x 0.12
+  From "PSX First-Person Arms & Items Kit":  https://vuena.itch.io/psx-first-person-arms-kit
+    px_fp_candle               Candle (hand-held)                224 tris   0.09 x 0.14 x 0.18
+    px_fp_note                 Paper note (hand-held)             16 tris   0.12 x 0.01 x 0.14
+    px_fp_battery              Battery (hand-held)                92 tris   0.04 x 0.04 x 0.07
+    px_fp_keycard              Keycard (hand-held)               116 tris   0.09 x 0.15 x 0.03
+
+TECHNICAL NOTES
+---------------
+  - The packs were made at different times and in different styles (realistic PBR simulator props, blocky characters and creatures,
+    low-poly toy cars, PS1-style horror props), so check the size column when you mix them. Scale each pack to suit your scene.
+  - Simulator assets use PBR materials; the blocky packs use a small colour-palette texture; the PSX assets use tiny nearest-filter textures on purpose.
+  - Files are unchanged from the individual free samples. I checked every GLB with the Khronos glTF-Validator: 0 errors.
+  - Made with my own procedural Blender code (written with AI help). The meshes and textures are not AI-generated.
+
+CREDITS
+-------
+  Everything is my own work, with one exception: the oak and walnut wood textures used by the armchair and the coffee table in the
+  Simulator/Modular-Apartment-Interior-Kit folder come from the Poly Haven texture "oak_veneer_01" by Jenelle van Heerden (CC0,
+  https://polyhaven.com/a/oak_veneer_01; the walnut is a darkened copy). Poly Haven is CC0 as well, so the whole download stays CC0.
+
+LIKE WHAT YOU SEE? THE FULL PACKS
+---------------------------------
+  Every asset here is a taste of a bigger pack. The full versions (all paid, each with many more assets) are:
+
+  Store Simulator Kit                      https://vuena.itch.io/store-simulator-kit
+  Gas Station Simulator Kit                https://vuena.itch.io/gas-station-simulator-kit
+  Modular Apartment Interior Kit           https://vuena.itch.io/modular-apartment-interior-kit
+  Factory Simulator Kit                    https://vuena.itch.io/factory-simulator-kit
+  48 Rigged Characters + 30 Animations     https://vuena.itch.io/blocky-characters-48
+  50 Low-Poly Toy Cars                     https://vuena.itch.io/toy-cars-20
+  Cute Pets & Wildlife                     https://vuena.itch.io/blocky-pets-wildlife
+  Blocky Monsters                          https://vuena.itch.io/blocky-halloween
+  Blocky Winter & Christmas                https://vuena.itch.io/blocky-winter-christmas
+  PSX Retro Horror Props Kit               https://vuena.itch.io/psx-retro-horror-props-kit
+  PSX First-Person Arms & Items Kit        https://vuena.itch.io/psx-first-person-arms-kit
+  PSX Night Shift Store Kit                https://vuena.itch.io/psx-night-shift-store-kit
+
+  Want several at once? These bundles are much cheaper than buying one by one:
+  Vuena Complete Collection (all 12 packs)       https://itch.io/s/215182/vuena-complete-collection-12-packs
+  Simulator Kits Bundle (the 4 simulator kits)    https://itch.io/s/215039/simulator-kits-bundle-4-kits
+
+  All my pages: https://vuena.itch.io
+
+Thank you for downloading, and have fun building. If you make something with these assets I would love to see it.
+Questions or requests: hello@popyca.com
